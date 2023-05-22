@@ -30,8 +30,8 @@ const Feedback = () => (
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          "With the development of today's technology, metaverse is very useful
-          for today's work, or can be called web 3.0 by using metaverse you can
+          "With the development of today's technology, metaversis is very useful
+          for today's work, or can be called web 3.0 by using metaversis you can
           use i/t as anything"
         </p>
       </motion.div>
